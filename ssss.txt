@@ -1,0 +1,72 @@
+[7/12/2026 12:25 PM] trueVpnVps: PING: 221.6ms ✅
+Click to copy :
+
+  vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=%2Fws%2Fe878eed7-c3f7-cd5c-bb10-468bad9b936c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app#Channel%20%3A%20%40Daily_Configs
+[7/12/2026 12:25 PM] trueVpnVps: PING: 3253.0ms ✅
+Click to copy :
+
+  vless://Telegram-CNT-Cafe@45.39.33.174:443?security=reality&encryption=none&pbk=ZDn8_M2k8Mvkk1z22VN_2c8TCmAPqC1KXVrLMcel9zk&headerType=none&fp=chrome&spx=%2FNtsMPt4hxjCDr7Q&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=9e6782ee3789#Channel%20%3A%20%40Daily_Configs
+[7/12/2026 12:26 PM] trueVpnVps: PING: 270.1ms ✅
+Click to copy :
+
+  vless://b7d33e42-6352-4538-8479-c6910f6a4785@hikvision-plus.com:2052?encryption=none&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1&security=none&type=ws#%F0%9F%92%9Et.me/BlueKnight_Net
+[7/12/2026 12:27 PM] trueVpnVps: PING: 330.3ms ✅
+Click to copy :
+
+  vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@hikvision-plus.com:443?path=%2FNovex&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ap.mozestanman.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=ap.mozestanman.dpdns.org#%F0%9F%92%9Et.me/BlueKnight_Net
+[7/12/2026 12:37 PM] trueVpnVps: PING: 101.9ms ✅
+Click to copy :
+
+  vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.108.111:22224?encryption=none&security=none&type=tcp#✈️
+[7/12/2026 12:37 PM] trueVpnVps: PING: 108.5ms ✅
+Click to copy :
+
+  vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.108.111:22223?encryption=none&security=none&type=tcp#🛩️
+[7/12/2026 12:37 PM] trueVpnVps: PING: 108.5ms ✅
+Click to copy :
+
+  vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.108.111:22222?encryption=none&security=none&type=tcp#🤹‍♂️
+[7/12/2026 12:38 PM] trueVpnVps: PING: 178.2ms ✅
+Click to copy :
+
+  vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#✨
+[7/12/2026 12:38 PM] trueVpnVps: PING: 196.8ms ✅
+Click to copy :
+
+  vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.152:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#🌟
+[7/12/2026 12:39 PM] trueVpnVps: PING: 141.4ms ✅
+Click to copy :
+
+  vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.152:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#%40NetAccount-UNK
+[7/12/2026 12:44 PM] trueVpnVps: PING: 197.0ms ✅
+Click to copy :
+
+  vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.152:443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=970098f31b96a3e8#%40NetAccount-UNK
+[7/12/2026 12:47 PM] trueVpnVps: PING: 544.6ms ✅
+Click to copy :
+
+  vless://b88e1ac0-0647-3bae-7846-de9f5e6cb5aa@x4g-production-246b.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-246b.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-246b.up.railway.app&path=%2Fws%2Fb88e1ac0-0647-3bae-7846-de9f5e6cb5aa#%F0%9F%8F%B3%5Bopenproxylist.com%5D%20vless-
+[7/12/2026 12:47 PM] trueVpnVps: PING: 266.7ms ✅
+Click to copy :
+
+  vless://867eeaea-04f3-2a70-e800-b23aa6ee6343@x4g-production-f2d2.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-f2d2.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-f2d2.up.railway.app&path=%2Fws%2F867eeaea-04f3-2a70-e800-b23aa6ee6343#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
+[7/12/2026 12:47 PM] trueVpnVps: PING: 266.7ms ✅
+Click to copy :
+
+  vless://bd3dde98-b8a7-3c0d-6bf3-f3b41d9dd988@arg-production-abb8.up.railway.app:443?encryption=none&security=tls&sni=arg-production-abb8.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=arg-production-abb8.up.railway.app&path=%2Fws%2Fbd3dde98-b8a7-3c0d-6bf3-f3b41d9dd988#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-NL
+[7/12/2026 12:47 PM] trueVpnVps: PING: 178.6ms ✅
+Click to copy :
+
+  vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=pan21.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed#%F0%9F%87%AB%F0%9F%87%AE%5Bopenproxylist.com%5D%20vless-FI
+[7/12/2026 12:47 PM] trueVpnVps: PING: 433.3ms ✅
+Click to copy :
+
+  vless://df9917d2-cfb1-a9f9-5c27-b54a3f3edbcb@x4g-production-04b8.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-04b8.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-04b8.up.railway.app&path=%2Fws%2Fdf9917d2-cfb1-a9f9-5c27-b54a3f3edbcb#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-NL
+[7/12/2026 12:47 PM] trueVpnVps: PING: 266.1ms ✅
+Click to copy :
+
+  vless://942bdf54-733c-64c5-6560-fe1b90f79486@x4g-production-709e.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-709e.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-production-709e.up.railway.app&path=%2Fws%2F942bdf54-733c-64c5-6560-fe1b90f79486#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
+[7/12/2026 12:47 PM] trueVpnVps: PING: 543.5ms ✅
+Click to copy :
+
+  vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&security=tls&sni=fosae.starriverway-milo.sbs&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=fosae.starriverway-milo.sbs&path=%2Fsea#%F0%9F%87%AC%F0%9F%87%A7%5Bopenproxylist.com%5D%20vless-GB
